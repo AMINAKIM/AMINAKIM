@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Exciting opportunities for my PFE where I can apply my skills**
 
-- 👨‍💻 All of my projects are available at [Github https://github.com/AMINAKIM](Github https://github.com/AMINAKIM)
+- 👨‍💻 All of my projects are available at [Github](Github https://github.com/AMINAKIM)
 
 - 📫 How to reach me **aminabikanimine@gmail.com**
 
