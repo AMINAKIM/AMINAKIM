@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amina-bikanimine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amina-bikanimine" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/amina-bikanimine](https://www.linkedin.com/in/amina-bikanimine-71040b1b2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amina-bikanimine" height="30" width="40" /></a>
 <a href="https://instagram.com/kim.amina.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim.amina.17" height="30" width="40" /></a>
 </p>
 
